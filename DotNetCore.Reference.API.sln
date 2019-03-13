@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore.Reference.API.Dapper", "DotNetCore.Reference.API.Dapper\DotNetCore.Reference.API.Dapper.csproj", "{5A4C4706-34CB-472A-BB2A-9B4BBEEB5123}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCore.Reference.API.xUnitTests", "DotNetCore.Reference.API.xUnitTests\DotNetCore.Reference.API.xUnitTests.csproj", "{56334AE8-38E2-4259-A191-3F112332F114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A4C4706-34CB-472A-BB2A-9B4BBEEB5123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4C4706-34CB-472A-BB2A-9B4BBEEB5123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4C4706-34CB-472A-BB2A-9B4BBEEB5123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4C4706-34CB-472A-BB2A-9B4BBEEB5123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56334AE8-38E2-4259-A191-3F112332F114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56334AE8-38E2-4259-A191-3F112332F114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56334AE8-38E2-4259-A191-3F112332F114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56334AE8-38E2-4259-A191-3F112332F114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBAB5CB7-4236-463F-B9F4-62AD095B751B}
+	EndGlobalSection
+EndGlobal
